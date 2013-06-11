@@ -2,7 +2,7 @@ CryptoGPS
 
 ========================================================================================
 
-During times of little GPS privacy: This app development is driven to enable efficient, FAST, secure GPS navigation (multi-platform).
+In times of little GPS security/privacy: app development is driven to enable efficient/FAST, secure GPS navigation (multi-platform).
 
 
 Protocol: NMEA 0183
