@@ -7,9 +7,9 @@ During times of little GPS privacy: This app development is driven to enable eff
 
 Protocol: NMEA 0183
 
-Cryptography implemented: Two-Fish (unpatented, unbroken)
+Cryptography implemented: Asymmetric(PKC)/Symmetric
 
-Programming language(s): C, C++
+Programming language(s): C/C++
 
 
 See: CryptoGPS/Wiki/Pages for embedded system/device architecture info.
@@ -18,7 +18,7 @@ See: CryptoGPS/Wiki/Pages for embedded system/device architecture info.
 In the coming months: Updates and design changes will be documented (thoroughly) on CryptoGPS.com
 
 
-Please send question(s)/comment(s): justin@datapattern.org
+Please send question(s)/comment(s): Info@CryptoGPS.com
 
 Inquiries about joining and suggestions greatly appreciated--All ideas welcome.
 
